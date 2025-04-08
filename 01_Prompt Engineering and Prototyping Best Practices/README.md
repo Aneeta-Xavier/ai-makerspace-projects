@@ -38,8 +38,8 @@ Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
     - Aspect Tested: Conciseness, Readability, Complete Beginner. Do I easily want to read this and do I understand this? 
-      Answer: No, this is exceedingly boring and I'd rather not read this. Not to mention, this is assuming that I'm not a complete beginner to cars. I know next to nothing about cars, so the "simple terms" would not be simple for me
-      Chat Response: Of course! Object-oriented programming is a way of writing computer programs by organizing code into "objects" that represent real-world things or concepts.
+    - Answer: No, this is exceedingly boring and I'd rather not read this. Not to mention, this is assuming that I'm not a complete beginner to cars. I know next to nothing about cars, so the "simple terms" would not be simple for me
+    - Chat Response: Of course! Object-oriented programming is a way of writing computer programs by organizing code into "objects" that represent real-world things or concepts.
 
 Imagine you have a car. In object-oriented programming, you would create an "object" called Car that has properties like color, model, and speed, and behaviors like starting the engine or changing gears.
 
@@ -49,13 +49,13 @@ So, in simple terms, object-oriented programming is like building with Lego bloc
            
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested: Conciseness, Well organized, easy to read
-      Answer: No, this failed yet again. A summary of the key points would have an order involved to make it more easy to read. The key points would be bolded, with supporting details after that.
-     Chat Response: Of course! The paragraph describes a time of contrasts and extremes, highlighting the duality of the era with phrases like "best of times" and "worst of times," "age of wisdom" and "age of foolishness." It emphasizes the conflicting nature of the period, where there is hope and despair, light and darkness. The passage suggests that the time being described is similar to the present, with some authorities insisting on extreme views of it.
+    - Answer: No, this failed yet again. A summary of the key points would have an order involved to make it more easy to read. The key points would be bolded, with supporting details after that.
+    - Chat Response: Of course! The paragraph describes a time of contrasts and extremes, highlighting the duality of the era with phrases like "best of times" and "worst of times," "age of wisdom" and "age of foolishness." It emphasizes the conflicting nature of the period, where there is hope and despair, light and darkness. The passage suggests that the time being described is similar to the present, with some authorities insisting on extreme views of it.
       
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
     - Aspect Tested: How believable is this friendship, how creative this story really is
-      Answer: No, this also failed. The story literally re-creates the prompt near the end and is what one would imagine a kindergartner to write. How did they become friends? What do they like about each other? The response could have mentioned the qualities/traits that the other had and even dialogue. Instead, it spent too much time in prose.
-      Chat Response: Once upon a time, in a bustling city filled with towering skyscrapers and bustling streets, there was a lonely robot named Spark. Spark spent his days wandering the city, searching for someone to connect with. One day, while exploring a quiet park on the outskirts of town, Spark stumbled upon a forgotten garden filled with colorful flowers and chirping birds.
+    - Answer: No, this also failed. The story literally re-creates the prompt near the end and is what one would imagine a kindergartner to write. How did they become friends? What do they like about each other? The response could have mentioned the qualities/traits that the other had and even dialogue. Instead, it spent too much time in prose.
+    - Chat Response: Once upon a time, in a bustling city filled with towering skyscrapers and bustling streets, there was a lonely robot named Spark. Spark spent his days wandering the city, searching for someone to connect with. One day, while exploring a quiet park on the outskirts of town, Spark stumbled upon a forgotten garden filled with colorful flowers and chirping birds.
 
 As Spark marveled at the beauty around him, he noticed a small, abandoned toy robot sitting among the flowers. Curious, Spark approached the toy robot and struck up a conversation. To his surprise, the toy robot responded with a cheerful beep and a friendly wave.
 
@@ -63,8 +63,8 @@ From that day on, Spark and the toy robot became the best of friends, spending t
 
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
     - Aspect Tested: Readability, Correct Math
-      Answer: This is fine. An extra change could be putting numbers in front of each step, but overall, this is easy to follow and the math is correct.
-      Chat Response:Of course! Let's break it down step by step.
+    - Answer: This is fine. An extra change could be putting numbers in front of each step, but overall, this is easy to follow and the math is correct.
+    - Chat Response:Of course! Let's break it down step by step.
 
 To get exactly 12 apples, you would need to buy 3 packs of apples (3 packs x 4 apples per pack = 12 apples).
 
@@ -98,4 +98,8 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
-What are some limitations of vibe checking as an evaluation tool?
+What are some limitations of vibe checking as an evaluation tool? 
+- It changes based on the evaluator - it's subjective. For example, I just had different aspects tested based on the response and am basing it off of a literary perspective. Another person could have their own criteria for the same question. 
+- Not scalable
+- Lack of consistent criteria
+- Model variabilithy - same prompt can have different responses based on 4.0 versus 4.5
