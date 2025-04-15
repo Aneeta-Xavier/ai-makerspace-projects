@@ -1,16 +1,12 @@
-<p align = "center" draggable=”false” ><img src="https://github.com/AI-Maker-Space/LLM-Dev-101/assets/37101144/d1343317-fa2f-41e1-8af1-1dbb18399719" 
-     width="200px"
-     height="auto"/>
-</p>
+# Production RAG with LangGraph and LangChain
 
-## <h1 align="center" id="heading">Production RAG with LangGraph and LangChain</h1>
+![AIM Logo](https://github.com/AI-Maker-Space/LLM-Dev-101/assets/37101144/d1343317-fa2f-41e1-8af1-1dbb18399719)
 
 | 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
 | [Session 4: Pre-Work](https://www.notion.so/Session-4-Production-Grade-RAG-with-LangChain-1c8cd547af3d814c95a8e9ba5bd1a459?pvs=4#1c8cd547af3d81ebb0fcc9e05bf4b311)| [Session 4: Production-Grade RAG with LangChain](https://www.notion.so/Session-4-Production-Grade-RAG-with-LangChain-1c8cd547af3d814c95a8e9ba5bd1a459) | Coming Soon! |[Session 4: Production-Grade RAG with LangChain](https://www.canva.com/design/DAGjaZ1SqwU/0-YVlQBs6uEVP_XEdiADdQ/edit?utm_content=DAGjaZ1SqwU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You Are Here! | [Session 4 Assignment: Production RAG with LangGraph and LangChain](https://forms.gle/QnGJcGUZFP7BzdCbA)| [AIE6 Feedback 4/10](https://forms.gle/zU8JJ4umGZUJD26p8)
 
-
-# Build 🏗️
+## Build 🏗️
 
 If running locally:
 
@@ -43,12 +39,12 @@ Optionally, you can run the LangSmith and Evaluation notebook and complete the c
 5. Create Testing Dataset
 6. Evaluation
 
-# Ship 🚢
+## Ship 🚢
 
 - The completed notebook. 
 - 5min. Loom Video
 
-# Share 🚀
+## Share 🚀
 - Walk through your notebook and explain what you've completed in the Loom video
 - Make a social media post about your final application and tag @AIMakerspace
 - Share 3 lessons learned
